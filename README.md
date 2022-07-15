@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rupesh.gatsbyjs.io](https://rupesh.gatsbyjs.io)
 
-- 💬 Ask me about **React, Redux & Node.js**
+- 💬 Ask me about **MERN Stack and algorithmic problem solving**
 
 - 📫 How to reach me **bhs.rupesh@gmail.com**
 
