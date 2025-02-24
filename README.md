@@ -1,19 +1,63 @@
-<h1 align="center">Hi 👋, I'm Rupesh.</h1>
-<h3 align="center">a pre-final year engineering student specializing in the development of robust and scalable full-stack web applications, along with the construction of optimized and efficient solutions to algorithmic problems.</h3>
+# Hi, I'm Rupesh Ojha 👋
 
-- 👨‍💻 All of my projects are available at [https://rupesh.gatsbyjs.io](https://rupesh.gatsbyjs.io)
+I'm a software engineer with over 2 years of experience building high-performance backend systems and elegant full-stack applications.
 
-- 💬 Ask me about **MERN Stack and algorithmic problem solving**
+## About Me
 
-- 📫 How to reach me **bhs.rupesh@gmail.com**
+I hold a Bachelors degree in Computer Science / Information Technology, and I thrive on solving challenging problems, optimizing systems, and elevating user experiences.  
+For all the details, please check out my [Resume](https://bit.ly/rupesh-pdf).
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thetechgeeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thetechgeeek" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/thetechgeeek" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="thetechgeeek" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thetechgeeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thetechgeeek" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/thetechgeeek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thetechgeeek" height="30" width="40" /></a>
-</p>
+## Technical Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+- **Languages:** Scala, Java, C++/C, JavaScript  
+- **Frameworks & Libraries:** Ember.js, React.js, Redux, Node.js, Express.js, Bootstrap, Material-UI  
+- **Databases & Tools:** PostgreSQL, MongoDB, Redis, Git, AWS, Splunk, Datadog
+
+## Experience Highlights
+
+### Zoho Corporation | Software Developer (Feb 2024 - Present)
+- **Backend Optimization, API Performance:** Reduced API load times from **1400ms to 24ms**, boosting throughput by **85%**.  
+- **Frontend Enhancement:** Built dynamic EmberJS components that significantly enriched the user experience.  
+- **Database Tuning:** Streamlined PostgreSQL queries to cut execution times by **80%** and decreased Redis usage by **40%**.
+
+### Cvent | Application Support Engineer (Feb 2023 - Feb 2024)
+- Developed ReactJS components that improved internal tool productivity.  
+- Resolved critical issues and implemented performance upgrades across systems.
+
+*For more details, see my [Resume](https://bit.ly/rupesh-pdf).*
+
+## Selective Projects
+
+- **Rejuvenate:** A full-stack skincare e-commerce application built with React, Redux, Node.js, and Express.  
+- **Instagram Clone:** A feature-rich Instagram replica using React Hooks, Context API, Express, and Node.js.  
+- **Cashflow Settlement Utility:** An optimized algorithm to minimize cash flow complexities among groups, visualized using Vis.js.
+
+## Achievements
+
+- **Competitive Programming:**  
+  - CodeChef 5★ (Max Rating: 2039)  
+  - Ranked globally among the top 195 in Starters 25  
+- **LeetCode:** Solved 500+ problems  
+- **Certifications:** Completed Virtual Engineering programs by JP Morgan & Goldman Sachs
+
+## Metrics & Impact
+
+Below are some visuals that showcase the key metric improvements from my work:
+
+- **Backend Efficiency Improvement:**  
+  ![Efficiency Chart](link-to-efficiency-chart.png)
+
+- **API Load Time Reduction:**  
+  ![API Load Time Chart](link-to-loadtime-chart.png)
+
+- **Database Optimization:**  
+  ![Database Optimization Chart](link-to-database-chart.png)
+
+## Get in Touch
+
+Feel free to connect with me on:
+- [LinkedIn](your-linkedin-profile)
+- [GitHub](your-github-profile)
+- Email: [bhs.rupesh@gmail.com](mailto:bhs.rupesh@gmail.com)
+
+Thank you for stopping by!
