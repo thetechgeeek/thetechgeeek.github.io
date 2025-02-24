@@ -40,24 +40,11 @@ For all the details, please check out my [Resume](https://bit.ly/rupesh-pdf).
 - **LeetCode:** Solved 500+ problems  
 - **Certifications:** Completed Virtual Engineering programs by JP Morgan & Goldman Sachs
 
-## Metrics & Impact
-
-Below are some visuals that showcase the key metric improvements from my work:
-
-- **Backend Efficiency Improvement:**  
-  ![Efficiency Chart](link-to-efficiency-chart.png)
-
-- **API Load Time Reduction:**  
-  ![API Load Time Chart](link-to-loadtime-chart.png)
-
-- **Database Optimization:**  
-  ![Database Optimization Chart](link-to-database-chart.png)
-
 ## Get in Touch
 
 Feel free to connect with me on:
-- [LinkedIn](your-linkedin-profile)
-- [GitHub](your-github-profile)
+- [LinkedIn](https://linkedin.com/in/thetechgeeek)
+- [GitHub](https://github.com/thetechgeeek)
 - Email: [bhs.rupesh@gmail.com](mailto:bhs.rupesh@gmail.com)
 
 Thank you for stopping by!
